@@ -20,7 +20,7 @@ EmbedViz is a Streamlit-based web application that allows users to visualize and
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/embedding-visualizer.git
+   git clone https://github.com/NeoVand/EmbedViz.git
    cd embedding-visualizer
    ```
 
