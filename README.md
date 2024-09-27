@@ -21,7 +21,7 @@ EmbedViz is a Streamlit-based web application that allows users to visualize and
 1. Clone this repository:
    ```
    git clone https://github.com/NeoVand/EmbedViz.git
-   cd embedding-visualizer
+   cd EmbedViz
    ```
 
 2. Create and activate a virtual environment:
